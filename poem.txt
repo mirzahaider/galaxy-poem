@@ -1,0 +1,7 @@
+
+Mars
+Jupiter
+Earth
+Saturn
+Uranus
+These are celestial objects!
