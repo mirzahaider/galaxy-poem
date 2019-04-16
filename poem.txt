@@ -1,6 +1,7 @@
 
 The Galaxy
 
+Polaris
 Sun
 Mars
 Jupiter
