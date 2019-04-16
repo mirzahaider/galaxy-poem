@@ -5,6 +5,7 @@ Polaris
 Sun
 Mars
 Jupiter
+Jupiter's moon
 Earth
 Neptune
 Saturn
