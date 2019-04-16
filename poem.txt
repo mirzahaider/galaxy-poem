@@ -8,6 +8,5 @@ Earth
 Neptune
 Saturn
 Uranus
-Moon
 black holes
 These are celestial objects!
